@@ -1,2 +1,2 @@
 # Registration-Form
-A Static Registration Form
+A Dynamic Registration Form 
